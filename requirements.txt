@@ -1,1 +1,19 @@
-
+accelerate==0.33.0
+transformers==4.44.0
+diffusers[torch]==0.25.0
+ftfy==6.1.1
+# albumentations==1.3.0
+opencv-python==4.8.1.78
+einops==0.7.0
+pytorch-lightning==1.9.0
+bitsandbytes==0.44.0
+prodigyopt==1.0
+lion-pytorch==0.0.6
+came_pytorch==0.1.3
+schedulefree==1.4
+tensorboard
+safetensors==0.4.4
+sentencepiece==0.2.0
+imagesize==1.4.1
+numpy<=2.0
+rich==13.7.0
